@@ -36,6 +36,8 @@ async function getCountryDetails() {
 }
 getCountryDetails();
 
+// I only get undefined back and have no idea why.
+
 
 
 
